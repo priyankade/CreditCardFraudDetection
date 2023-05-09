@@ -8,12 +8,7 @@ Original file is located at
 
 ## **Subject** : Data Analytics and Machine Learning MIS 637
 ## **Project** : Credit Card Scam Detection
-## **Group No** : 2
-## **Group Members** :
->Poorvi Rajendra Raut: 20009560 <br>
-Anushree Rawat : 20015522 <br>
-Amna Shamshad : 20012301<br>
- Priyanka De : 20008920
+
 
 
 
